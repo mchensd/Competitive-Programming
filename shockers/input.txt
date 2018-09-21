@@ -1,0 +1,26 @@
+7
+! ababahalamaha
+? a
+? b
+? a
+? b
+? a
+? h
+
+8
+! hello
+! codeforces
+? c
+. o
+? d
+? h
+. l
+? e
+
+
+5
+! abc
+. ad
+. b
+! cd
+? c

@@ -1,0 +1,2 @@
+http://train.usaco.org/usacoprob2?a=0IJEXebOoqK&S=contact
+DP, check every substring length: 12*N, only 10000 patterns, find counts first, then print substrings
