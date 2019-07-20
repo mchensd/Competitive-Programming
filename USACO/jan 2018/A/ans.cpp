@@ -10,10 +10,8 @@ typedef pair<int, int> pii;
 int main() {
 #ifdef LOCAL
     freopen("a.in", "r", stdin);
-#else
-    freopen("A.in", "r", stdin);
-    freopen("A.out", "w", stdout);
 #endif
     ios::sync_with_stdio(0);
+    
     
 }
